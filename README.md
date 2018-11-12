@@ -2,7 +2,7 @@
 
 Vaadin 11 Java integration of https://github.com/Klaudeta/custom-upload
 
-This add-on allows to add a server validator the upload component to decide if the uploaded file is content valid to be accepted.
+This add-on allows to add a server validator to the upload component to decide if the uploaded file content is valid to be accepted.
 
 You can use the validation as follows:
 
